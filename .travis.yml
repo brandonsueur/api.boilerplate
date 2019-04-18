@@ -1,0 +1,8 @@
+language: nodes_js
+cache:
+  directories:
+    - node_modules
+node_js:
+- v4
+- v5
+- v6
